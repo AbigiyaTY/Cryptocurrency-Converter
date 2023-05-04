@@ -1,7 +1,11 @@
-class Coin
- attr_accessor :symbol, :USD, :EUR
+# rubocop:disable all
 
- def initialize(symbol, usd, eur)
-  @symbol, @USD, @EUR = symbol, usd, eur
- end
+class Coin
+  attr_accessor :symbol, :USD, :EUR
+
+  def initialize(symbol, usd, eur)
+    @symbol = symbol
+    @USD = usd
+    @EUR = eur
+  end
 end
