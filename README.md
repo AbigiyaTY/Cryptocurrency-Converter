@@ -35,9 +35,9 @@ In order to run this project you need to:
 
 Clone this repository to your desired folder:
 
-`https://github.com/AbigiyaTY/Cryptocurrency-Converter.git`
-cd `Cryptocurrency-Converter`
-code `.`
+- `https://github.com/AbigiyaTY/Cryptocurrency-Converter.git`
+- cd `Cryptocurrency-Converter`
+- code `.`
 
 ### Usage
 
